@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Krona+One&display=swap');
+
+.navbar {
+    font-family: 'Karla', sans-serif;
+    background-color: rgb(53,58,74);
+    font-size: 1.4rem;
+    font-weight: 900;
+    margin: 0;
+    top: 0;
+    padding: 0.2rem;
+}
+
+.nav-item {
+    margin-right: 2rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(202, 206, 221, 0.8);
+    font-family: 'Karla', sans-serif;
+    font-size: 1.1rem;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: whitesmoke;
+}
+
+.navbar-light .navbar-brand {
+    margin-left: 3rem;
+    font-size: 2rem;
+    color: white;
+}
+
+.navbar-light .navbar-brand span {
+    color: #fbb901;
+}
+
+.navbar-light .navbar-brand:hover {
+    /* margin-left: 3rem; */
+    font-size: 2rem;
+    color: #fbb901;
+}
+
+.navbar-light .navbar-brand:hover span {
+    color: white;
+}
+
+#nav-collaps-button{
+    background-color: #c8bae8;
+}
+
+.modal-body a ,a:not([href]):not([tabindex]){
+    color: rgba(245,245,245,0.6);
+}
+
+button.close {
+    border-radius: 3px;
+    background-color: white;
+}

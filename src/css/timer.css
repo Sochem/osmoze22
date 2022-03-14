@@ -1,0 +1,12 @@
+.circular_timer {
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px 40px;
+  }
+  
+  .time {
+    font-size: 32px;
+  }
+  

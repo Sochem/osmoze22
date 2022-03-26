@@ -1,4 +1,5 @@
 import './App.css';
+import './css/background.css';
 import Footer from './components/Footer'
 import Team from './components/Team'
 import HomePage from './components/Homepage'

@@ -43,27 +43,6 @@ function Announcement(){
                     </TimelineItem>
 
 					<TimelineItem
-						key="008"
-						dateText="11 April 2021"
-						dateInnerStyle={{ background: '#61b8ff', color: '#000' }}
-						bodyContainerStyle={{background: '#ddd',padding: '20px',borderRadius: '8px',boxShadow: '0.5rem 0.5rem 2rem 0 rgba(0, 0, 0, 0.2)',
-					}}>
-						<div>
-							<div className="timeline-item">
-								<h3 className="timeline-header">Problem Statement has been Released</h3>
-								<div className="timeline-body">
-								Registrations are open till 14th April, 11:59 PM and the problem statement has been released.
-								<br/>
-								Get yourself registered for 
-									<a href="https://events.osmoze.in/#/events/Adhyayan"> ADHYAYAN </a> 
-								 	and 
-								 	<a href="https://events.osmoze.in/#/events/Udyog"> UDYOG </a>
-								</div>
-							</div>
-						</div>
-                    </TimelineItem>
-
-					<TimelineItem
 						key="007"
 						dateText="10 April 2021"
 						dateInnerStyle={{ background: '#61b8ff', color: '#000' }}

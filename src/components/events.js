@@ -80,6 +80,10 @@ const Events = () => {
                       href="https://www.google.com"
                       target="blank"
                       className="btn book-ticket"
+                      onClick={() => {
+                        window.location = "/events/chemathon";
+                      }}
+                      href="/chemathon"
                     >
                       Read More...
                     </a>
@@ -153,9 +157,12 @@ const Events = () => {
                   </div>
                   <div className="group-of-btn">
                     <a
-                      href="https://www.google.com"
+                      href=""
                       target="blank"
                       className="btn book-ticket"
+                      onClick={() => {
+                        window.location = "/events/chemcoding";
+                      }}
                     >
                       Read More...
                     </a>
@@ -232,6 +239,9 @@ const Events = () => {
                       href="https://www.google.com"
                       target="blank"
                       className="btn book-ticket"
+                      onClick={() => {
+                        window.location = "/events/adhyayan";
+                      }}
                     >
                       Read More...
                     </a>
@@ -308,6 +318,9 @@ const Events = () => {
                       href="https://www.google.com"
                       target="blank"
                       className="btn book-ticket"
+                      onClick={() => {
+                        window.location = "/events/udhyog";
+                      }}
                     >
                       Read More...
                     </a>

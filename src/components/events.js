@@ -267,7 +267,7 @@ const Events = () => {
                   </table>
                 </div>
                 <div className="col-lg-5 sec-2">
-                  <img src="https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGV2ZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" />
+                  <img src='/assets/images/events/Udyog.png' />
                 </div>
                 <div className="col-lg-5 sec-3">
                   <div className="title">Udhyog</div>

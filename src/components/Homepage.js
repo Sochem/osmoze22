@@ -9,7 +9,7 @@ const HomePage = () =>{
             <section id="hero">
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
     <p class="mb-4 pb-0">Welcome to the Annual Chemical Extravaganza</p>
-      <h1 class="mb-4 pb-0"><span style={{color:'#1e7fff'}}>Osmoze </span>'21</h1>
+      <h1 class="mb-4 pb-0"><span style={{color:'#1e7fff'}}>Osmoze </span>'22</h1>
 
         <CircularTimer />
       <a href="#about" class="about-btn scrollto">About The Event</a>

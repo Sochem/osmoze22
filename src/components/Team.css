@@ -1,4 +1,3 @@
-
 #team:before {
   content: "";
   position: absolute;
@@ -108,7 +107,7 @@
 }
 
 .team-social-media > li > a > .fa {
-  font-size: 24px;
+  font-size: 20px;
   line-height: 50px;
   transition: transform 0.3s ease-out;
 }
@@ -161,62 +160,71 @@
 }
 
 div[id^='0'] h2 {
-  font-size: 1.7rem;
+  font-size: 1.1rem;
 }
 
 div[id^='0'] span{
-  font-size:0.75rem;
+  font-size:.75rem;
 }
 
 div[id^='1'] h2 {
-  font-size: 1.15rem;
+  font-size: 1.1rem;
+}
+
+div[id^='1'] span {
+  font-size: .75rem;
 }
 
 
+div[id^='2'] h2 {
+  font-size: 1.1rem;
+}
+
+div[id^='2'] span {
+  font-size: .75rem;
+}
+
 div[id^='3'] h2 {
-  font-size: 1.8rem;
+  font-size: 1.1rem;
 }
 
 div[id^='3'] span{
-  font-size:0.95rem;
+  font-size:0.75rem;
 }
 
 
 div[id^='4'] h2 {
-  font-size: 1.8rem;
+  font-size: 1.1rem;
 }
 
 div[id^='4'] span{
-  font-size:0.95rem;
+  font-size:.75rem;
 }
 
 div[id^='5'] h2 {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 div[id^='5'] span{
-  font-size:0.9rem;
-}
-
-div[id^='6'] h2 {
-  font-size: 1.8rem;
-}
-
-div[id^='6'] span{
-  font-size:0.9rem;
-}
-
-div[id^='7'] h2 {
-  font-size: 1.6rem;
-}
-
-div[id^='7'] span{
   font-size:0.75rem;
 }
 
-div[id^='8'] h2 {
-  font-size: 1.15rem;
+div[id^='6'] h2 {
+  font-size: 1.1rem;
 }
 
+div[id^='6'] span{
+  font-size:.75rem;
+}
 
+div[id^='7'] h2 {
+  font-size: 1.1rem;
+}
 
+div[id^='7'] span{
+  font-size:.75rem;
+}
+
+div[id^='8'] h2 {
+  font-size: 1.1rem;
+}

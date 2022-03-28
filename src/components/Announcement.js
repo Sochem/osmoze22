@@ -54,7 +54,7 @@ function Announcement(){
               Circumstances and situations faced in a given particular concept will be provided to you in the problem statement and you are expected to submit a solution on how to tackle those problems. 
               Registrations start on 29th of March and are open till 1st of April.<br></br>
               Do register in the below attached google form. Teams of maximum size 3 are allowed.
-              Google form link: <a href = "https://forms.gle/Tcc8QpfrLtuyi9zbA" target = "_blank">https://forms.gle/Tcc8QpfrLtuyi9zbA</a>
+              Google form link: <a href = "https://forms.gle/Tcc8QpfrLtuyi9zbA" text-decoration-color='blue' target = "_blank">https://forms.gle/Tcc8QpfrLtuyi9zbA</a>
             </div>
           </li>
         <li>
@@ -62,7 +62,7 @@ function Announcement(){
               <time>March 28 2022</time> <h3>Pre event: Chem-E-Meme</h3>
               Power up the creative part of yourselves as we present to you the most enthralling competition of our flagship event OSMOZE'22 - CHEM-E-MEME.
               Here is this amazing chance to create memes featuring chemical concepts that captivates everyone!!<br></br>
-              for details and rules of Chem-E-Memecheck your mail box!
+              for details and rules of Chem-E-Memecheck your mail box!<br></br>
               Google form for participation: <a href = "https://forms.gle/JkPtdonAo6aK84i59" target = "_blank">https://forms.gle/JkPtdonAo6aK84i59</a>
             </div>
           </li>

@@ -7,6 +7,7 @@ import Announcement from './components/Announcement'
 import {Switch, Route} from 'react-router-dom'
 // import Navbar from './components/Navbar'
 import NewNavBar from './components/newnavbar'
+import Events from './components/events'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <NewNavBar />
         <Switch>
         <Route exact path = "/" component = {HomePage}/>
+        <Route exact path = "/events" component = {Events}/>
         <Route exact path = "/team" component = {Team}/>
         <Route exact path = "/announcement" component = {Announcement}/>
         </Switch>

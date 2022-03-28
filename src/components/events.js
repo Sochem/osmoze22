@@ -13,7 +13,7 @@ const Events = () => {
             <div className="heading">Main Events</div>
           </div>
           <div className="upcoming-event-list">
-            <div className="event-block">
+           {/* <div className="event-block">
               <div className="row">
                 <div className="col-lg-2 sec-1">
                   <table>
@@ -48,14 +48,14 @@ const Events = () => {
                                 Get Directions
                               </a>
                             </div>
-                          </td> */}
+                          </td> 
                         </tr>
                       </tbody>
                     </table>
                   </div>
                   <div className="time">
                     <table>
-                      <tbody>
+                    {/*  <tbody>
                         <tr>
                           <td>
                             <i className="fa fa-clock-o" />
@@ -68,7 +68,7 @@ const Events = () => {
                             />
                           </td>
                         </tr>
-                      </tbody>
+                      </tbody> 
                     </table>
                   </div>
                   <div className="sort-story">
@@ -90,9 +90,9 @@ const Events = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="event-block">
+          {/*  <div className="event-block">
               <div className="row">
                 <div className="col-lg-2 sec-1">
                   <table>
@@ -127,14 +127,14 @@ const Events = () => {
                                 Get Directions
                               </a>
                             </div>
-                          </td> */}
+                          </td> 
                         </tr>
                       </tbody>
                     </table>
                   </div>
                   <div className="time">
                     <table>
-                      <tbody>
+                     {/* <tbody>
                         <tr>
                           <td>
                             <i className="fa fa-clock-o" />
@@ -147,7 +147,7 @@ const Events = () => {
                             />
                           </td>
                         </tr>
-                      </tbody>
+                        </tbody> 
                     </table>
                   </div>
                   <div className="sort-story">
@@ -206,7 +206,7 @@ const Events = () => {
                                 Get Directions
                               </a>
                             </div>
-                          </td> */}
+                          </td> 
                         </tr>
                       </tbody>
                     </table>
@@ -226,7 +226,7 @@ const Events = () => {
                             />
                           </td>
                         </tr>
-                      </tbody>
+                      </tbody> 
                     </table>
                   </div>
                   <div className="sort-story">
@@ -248,7 +248,7 @@ const Events = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             <div className="event-block last">
               <div className="row">
@@ -292,7 +292,7 @@ const Events = () => {
                   </div>
                   <div className="time">
                     <table>
-                      <tbody>
+                    {/*   <tbody>
                         <tr>
                           <td>
                             <i className="fa fa-clock-o" />
@@ -305,7 +305,7 @@ const Events = () => {
                             />
                           </td>
                         </tr>
-                      </tbody>
+                      </tbody> */}
                     </table>
                   </div>
                   <div className="sort-story">
@@ -313,7 +313,7 @@ const Events = () => {
                     challenge, straight from a reputed Chemical based industry.
                     Its high time to show your worth to the industry.
                   </div>
-                  <div className="group-of-btn">
+                {/* <div className="group-of-btn">
                     <a
                       href="https://www.google.com"
                       target="blank"
@@ -324,7 +324,7 @@ const Events = () => {
                     >
                       Read More...
                     </a>
-                  </div>
+                    </div> */}
                 </div>
               </div>
             </div>
@@ -453,7 +453,7 @@ const Events = () => {
                     </div>
                     <div className="time">
                       <table>
-                        <tbody>
+                      {/*  <tbody>
                           <tr>
                             <td>
                               <i className="fa fa-clock-o" />
@@ -466,7 +466,7 @@ const Events = () => {
                               />
                             </td>
                           </tr>
-                        </tbody>
+                        </tbody>  */}
                       </table>
                     </div>
                     <div className="sort-story">
@@ -593,7 +593,7 @@ const Events = () => {
                     </div>
                     <div className="time">
                       <table>
-                        <tbody>
+                      {/*  <tbody>
                           <tr>
                             <td>
                               <i className="fa fa-clock-o" />
@@ -606,7 +606,7 @@ const Events = () => {
                               />
                             </td>
                           </tr>
-                        </tbody>
+                        </tbody> */}
                       </table>
                     </div>
                     <div className="sort-story">

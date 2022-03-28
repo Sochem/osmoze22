@@ -309,9 +309,8 @@ const Events = () => {
                     </table>
                   </div>
                   <div className="sort-story">
-                    Here, you will be provided with a real life engineering
-                    challenge, straight from a reputed Chemical based industry.
-                    Its high time to show your worth to the industry.
+                  We are pleased to introduce you to another exciting OSMOZE'22 event - "UDYOG." We are organising a variety of events covering a wide range of profiles in order to bring out the best in you. 
+
                   </div>
                 {/* <div className="group-of-btn">
                     <a
@@ -470,8 +469,7 @@ const Events = () => {
                       </table>
                     </div>
                     <div className="sort-story">
-                      A series of extremely competitive events needing you to
-                      get into the shoes for the internship session.
+                    Osmocross is a fun crossword solving event, with 2 challenges based on different themes. The Osmocross challenge will be mailed to you tonight 28th March at 10 PM and the answers need to submit before 28th March at 11 PM  The responses are to be filled in the shared Google form. And in the case of a tie, the answer solved in the least stimulated time will be given preference.
                     </div>
                     {/* ************************************************************************* */}
                   </div>
@@ -610,8 +608,8 @@ const Events = () => {
                       </table>
                     </div>
                     <div className="sort-story">
-                      A series of extremely competitive events needing you to
-                      get into the shoes for the internship session.
+                    Power up the creative part of yourselves as we present to you the most enthralling competition of our flagship event OSMOZE'22 - CHEM-E-MEME.
+
                     </div>
                     {/* ************************************************************************* */}
                   </div>

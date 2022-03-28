@@ -1,7 +1,7 @@
 import React from  'react'
 import CircularTimer from './Timer'
-import Owlcarousel from './Owlcarousel'
 import '../css/homepage.css'
+import Carousel from './Carousel'
 
 const HomePage = () =>{
     return (
@@ -23,8 +23,8 @@ const HomePage = () =>{
       <div class="container" data-aos="fade-up">
         <div class="row">
           <div class="col-lg-6">
-            <h2>About The Event</h2>
-            <p>
+            <h1>About The Event</h1>
+            <p style={{'padding':'1rem'}}>
               Osmoze is the annual technical extravaganza organized by the Department 
               of Chemical engineering, IIT BHU, Varanasi. We intend to provide a competitive 
               platform for honing technical and professional skills of students, especially those 
@@ -37,7 +37,8 @@ const HomePage = () =>{
             </p>
           </div>
           <div class="col-lg-6">
-          <Owlcarousel />
+          {/* <Owlcarousel /> */}
+          <Carousel />
             </div>
         </div>
       </div>

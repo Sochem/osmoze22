@@ -41,8 +41,9 @@ h2{
   /* color: #0d1c33; */
 }
 time{
-  background-color: #61b8ff;
+  background-color: #213749;
   padding: 4px;
+  color: white;
 }
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -114,10 +115,12 @@ time{
 
 time {
   display: block;
-  font-size: 1.2rem;
-  font-weight: bold;
+  font-size: 1.3rem;
+  /* font-weight: bold; */
   margin-bottom: 8px;
   /* background: '#61b8ff'; */
+  padding-left:10px ;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 

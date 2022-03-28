@@ -259,7 +259,7 @@ const Events = () => {
                         <td>
                           <div className="month">Apr</div>
                           <div className="month-date-devider" />
-                          <div className="date">27</div>
+                          <div className="date">7</div>
                         </td>
                         <td className="title">DASTAAN - a tribute to Rekha</td>
                       </tr>
@@ -414,9 +414,9 @@ const Events = () => {
                       <tbody>
                         <tr>
                           <td>
-                            <div className="month">Apr</div>
+                            <div className="month">Mar</div>
                             <div className="month-date-devider" />
-                            <div className="date">27</div>
+                            <div className="date">28</div>
                           </td>
                           <td className="title">Osmocross</td>
                         </tr>
@@ -553,9 +553,9 @@ const Events = () => {
                       <tbody>
                         <tr>
                           <td>
-                            <div className="month">Apr</div>
+                            <div className="month">Mar</div>
                             <div className="month-date-devider" />
-                            <div className="date">27</div>
+                            <div className="date">28</div>
                           </td>
                           <td className="title">Chem-E-Meme</td>
                         </tr>

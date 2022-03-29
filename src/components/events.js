@@ -1,5 +1,5 @@
-
 import React from 'react'
+import "./Events.css";
 
 const Udhyog = () => {
   return (

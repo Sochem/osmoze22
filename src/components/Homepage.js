@@ -32,7 +32,7 @@ const HomePage = () =>{
               industrial problem solving competition, Adhyayan – a case study event, and a veritable 
               potpourri of events to nurture the engineering professional inside you. Osmoze is the 
               perfect platform to enhance your professional skills and experience a unique atmosphere
-               of creativity and innovation. So mark your calendar for 16th-18th April and get ready 
+               of creativity and innovation. So mark your calendar for 4th-8th April and get ready 
                for this one of a kind fest.
             </p>
           </div>

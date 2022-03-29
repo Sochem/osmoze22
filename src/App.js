@@ -20,7 +20,7 @@ function App() {
           <NewNavBar />
 					<Switch>
           <Route exact path = "/" component = {HomePage}/>
-            <Route path = "/events" component = {Events}/>
+            <Route exact path = "/events" component = {Events}/>
             <Route path = "/team" component = {Team}/>
             <Route path = "/announcement" component = {Announcement}/>
             <Route path = "/events/chemcoding" component = {Chemcoding}/>

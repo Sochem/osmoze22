@@ -20,7 +20,7 @@
 }
  .page-event .cover .heading {
 	 font-family: 'Telefon Black';
-	 font-size: 243px;
+	 font-size: 143px;
 	 letter-spacing: 0.08em;
 	 text-transform: uppercase;
 	 text-align: center;
@@ -28,7 +28,7 @@
 	 -moz-osx-font-smoothing: grayscale;
 	 color: #ccc;
 	 transition: font-size 0.3s;
-	 
+	 padding-top: 100px;
 }
  .page-event .cover .heading::first-letter {
 	 color: #db2d8e;

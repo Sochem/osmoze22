@@ -25,16 +25,16 @@ function Carousel(){
                 <img class="d-block w-100" src="/assets/images/gallery/3.jpg" alt="Third slide" />
                 </div>
                 <div class="carousel-item">
-                <img class="d-block w-100" src="/assets/images/gallery/4.jpg" alt="Third slide" />
+                <img class="d-block w-100" src="/assets/images/gallery/4.JPG" alt="Third slide" />
                 </div>
                 <div class="carousel-item">
-                <img class="d-block w-100" src="/assets/images/gallery/5.jpg" alt="Third slide" />
+                <img class="d-block w-100" src="/assets/images/gallery/5.JPG" alt="Third slide" />
                 </div>
                 <div class="carousel-item">
-                <img class="d-block w-100" src="/assets/images/gallery/6.jpg" alt="Third slide" />
+                <img class="d-block w-100" src="/assets/images/gallery/6.JPG" alt="Third slide" />
                 </div>
                 <div class="carousel-item">
-                <img class="d-block w-100" src="/assets/images/gallery/7.jpg" alt="Third slide" />
+                <img class="d-block w-100" src="/assets/images/gallery/7.JPG" alt="Third slide" />
                 </div>
                 <div class="carousel-item">
                 <img class="d-block w-100" src="/assets/images/gallery/8.jpg" alt="Third slide" />

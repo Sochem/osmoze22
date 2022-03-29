@@ -156,7 +156,13 @@ time {
   visibility: visible;
   opacity: 1;
 }
-
+.register{
+  padding: 5px;
+  border: none;
+  border-radius: 8px;
+  background-color: #213749;
+  color: #fff;
+}
 
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -169,9 +175,29 @@ time {
     left: -289px;
     /*250+45-6*/
   }
+  .register{
+    background-color: #213749;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+  }
 }
 
 @media screen and (max-width: 600px) {
+  .link{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100px;
+  }
+  .register{
+    padding: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    background-color: #213749;
+
+  }
   .timeline ul li {
     margin-left: 20px;
   }
@@ -266,3 +292,5 @@ time {
   display: flex;
   margin-left: 4px;
 }
+
+

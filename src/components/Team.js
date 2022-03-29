@@ -10,7 +10,7 @@ class Team extends Component {
                     id: 0,
                     name: 'Bhani kaur',
                     designation:'General Secretary',
-                    image: '/assets/images/team/Bhanikaur.jpg',
+                    image: '/assets/images/team/Bhanikaur.jpeg',
                     fb:'https://www.facebook.com/bhani.kaur.58',
                     insta:'https://www.instagram.com/kaur_bkj01/',
                     linkedin:'https://www.linkedin.com/in/bhani-kaur-b3946918a',
@@ -19,7 +19,7 @@ class Team extends Component {
                     id: 1,
                     name: 'Srishti Bansal',
                     designation:'Convener',
-                    image: '/assets/images/team/shrishtibansal.jpg',
+                    image: '/assets/images/team/shrishtibansal.jpeg',
                     fb:'https://m.facebook.com/100009353864375/',
                     insta:'https://www.instagram.com/_srishti.bansal/',
                     linkedin:'https://www.linkedin.com/in/arjupta/',
@@ -37,7 +37,7 @@ class Team extends Component {
                     id: 3,
                     name: 'Rudresh Gupta',
                     designation:'Tech Head (Web)',
-                    image: '/assets/images/team/rudresh.jpg',
+                    image: '/assets/images/team/rudresh.jpeg',
                     fb:'https://www.facebook.com/rudresh.gupta.984/',
                     insta:'https://www.instagram.com/_its_rd_/',
                     linkedin:'https://www.linkedin.com/in/rudresh-gupta-b87a84190/',
@@ -46,7 +46,7 @@ class Team extends Component {
                     id: 4,
                     name: 'Arjun Gupta',
                     designation:'Tech Head (App)',
-                    image: '/assets/images/team/arjungupta.jpg',
+                    image: '/assets/images/team/arjungupta.jpeg',
                     fb:'https://www.facebook.com/arjun.manas.1/',
                     insta:'https://www.instagram.com/arjupta/',
                     linkedin:'https://www.linkedin.com/in/arjupta/',
@@ -55,7 +55,7 @@ class Team extends Component {
                     id: 5,
                     name: 'Neelam Deshmukh',
                     designation:'Design Head',
-                    image: '/assets/images/team/neelam.jpg',
+                    image: '/assets/images/team/neelam.jpeg',
                     fb:'https://www.facebook.com/neelam.deshmukh.581',
                     insta:'https://www.instagram.com/neelam_2611/',
                     linkedin:'https://www.linkedin.com/in/neelam-deshmukh/',
@@ -64,7 +64,7 @@ class Team extends Component {
                     id: 6,
                     name: 'V Rudheer Pamar',
                     designation:'Design Head',
-                    image: '/assets/images/team/rudheerCopy.jpg',
+                    image: '/assets/images/team/rudheerCopy.jpeg',
                     fb:'https://www.facebook.com/v.rudheerpamar.vankudothu',
                     insta:'https://www.instagram.com/rudheer.pamar/',
                     linkedin:'https://www.linkedin.com/in/rudheer-pamar-19b8aa1a8/',
@@ -73,7 +73,7 @@ class Team extends Component {
                     id: 7,
                     name: 'Aryaman Joshi',
                     designation:'Public Relations Head',
-                    image: '/assets/images/team/aryaman.png',
+                    image: '/assets/images/team/aryaman.jpeg',
                     fb:'https://www.facebook.com/aryaman.joshi.5',
                     insta:'https://www.instagram.com/aryaman3900/',
                     linkedin:'https://www.linkedin.com/in/aryaman-joshi-04259417b/',
@@ -81,8 +81,8 @@ class Team extends Component {
                     {
                     id: 8,
                     name: 'Abhinav Vinod Singh',
-                    designation:'Marketing and industrial relations head',
-                    image: '/assets/images/team/abhinav.jpg',
+                    designation:'Marketing and Ind. relations head',
+                    image: '/assets/images/team/abhinav.jpeg',
                     fb:'https://m.facebook.com/100005237973155/',
                     insta:'https://www.instagram.com/featuredhappy/',
                     linkedin:'https://www.linkedin.com/mwlite/in/abhinav-singh-9215671b7',
@@ -107,7 +107,7 @@ class Team extends Component {
                 </ul>
                 <div class="team-member-info">
                     <h2>{member.name}</h2>
-                    <span>{member.designation}</span>
+                    <span style={{'fontSize':'0.75rem'}}>{member.designation}</span>
                 </div>
             </div>
             

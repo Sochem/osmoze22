@@ -18,9 +18,9 @@
 	 background-position: center center;
 	 background-size: cover;
 }
-udhyog.css .page-event .cover .heading {
+ .page-event .cover .heading {
 	 font-family: 'Telefon Black';
-	 font-size: 143px;
+	 font-size: 243px;
 	 letter-spacing: 0.08em;
 	 text-transform: uppercase;
 	 text-align: center;
@@ -28,7 +28,11 @@ udhyog.css .page-event .cover .heading {
 	 -moz-osx-font-smoothing: grayscale;
 	 color: #ccc;
 	 transition: font-size 0.3s;
-	 padding-top: 100px;
+
+}
+.preeventhead{
+	font-size: 180px !important;
+	padding-top: 80px;
 }
  .page-event .cover .heading::first-letter {
 	 color: #db2d8e;
@@ -48,7 +52,7 @@ udhyog.css .page-event .cover .heading {
 	padding: 5px;
 	border: none;
 	border-radius: 8px;
-	background-color: #213749;
+	background-color: #3cbfaf;
 	color: #fff;
   }
  .page-event .upcoming-event-list .event-block {
@@ -135,6 +139,7 @@ udhyog.css .page-event .cover .heading {
 	border-bottom: none !important;
 }
 
+
  .page-event .page-heading::first-letter {
 	 color: #db2d8e;
 }
@@ -155,9 +160,10 @@ udhyog.css .page-event .cover .heading {
 		padding: 5px;
 		border: none;
 		border-radius: 8px;
-		background-color: #213749;
+		background-color: #3cbfaf;
 		color: #fff;
 	  }
+
 }
  @media (max-width: 767px) {
 	 .page-event .cover .heading {
@@ -168,14 +174,17 @@ udhyog.css .page-event .cover .heading {
 		padding: 5px;
 		border: none;
 		border-radius: 8px;
-		background-color: #213749;
+		background-color: #3cbfaf;
+	
 		color: #fff;
 	  }
+
 }
  @media (max-width: 575px) {
 	 .page-event .cover {
 		 height: 214px;
 	}
+
 	 .page-event .cover .heading {
 		 font-size: 70px;
 	}
@@ -194,7 +203,7 @@ udhyog.css .page-event .cover .heading {
 		padding: 5px;
 		border: none;
 		border-radius: 8px;
-		background-color: #213749;
+		background-color: #3cbfaf;
 		color: #fff;
 	  }
 }

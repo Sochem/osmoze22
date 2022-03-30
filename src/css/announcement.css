@@ -41,7 +41,7 @@ h2{
   /* color: #0d1c33; */
 }
 time{
-  background-color: #213749;
+  background-color: #1b5090;
   padding: 4px;
   color: white;
   border-radius: 5px;
@@ -124,7 +124,20 @@ time {
   padding-left:10px ;
   font-family: 'Courier New', Courier, monospace;
 }
-
+.abtn{
+  padding: 8px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: #1b5090;
+  color: #fff;
+  font-family: inherit;
+  transition: all 0.5s;
+}
+.abtn:hover{
+  background-color: #0794D0;
+  /* color: black; */
+}
 
 /* EFFECTS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -156,13 +169,7 @@ time {
   visibility: visible;
   opacity: 1;
 }
-.register{
-  padding: 5px;
-  border: none;
-  border-radius: 8px;
-  background-color: #213749;
-  color: #fff;
-}
+
 
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -175,12 +182,20 @@ time {
     left: -289px;
     /*250+45-6*/
   }
-  .register{
-    background-color: #213749;
-    padding: 5px;
+ 
+  .abtn{
+    padding: 8px;
+    margin-top: 10px;
     border: none;
-    border-radius: 10px;
+    border-radius: 8px;
+    background-color: #1b5090;
     color: #fff;
+    font-family: inherit;
+    transition: all 0.5s;
+  }
+  .abtn:hover{
+    background-color: #0794D0;
+    /* color: black; */
   }
 }
 
@@ -190,13 +205,19 @@ time {
     white-space: nowrap;
     width: 100px;
   }
-  .register{
-    padding: 5px;
-    color: #fff;
+  .abtn{
+    padding: 8px;
+    margin-top: 10px;
     border: none;
-    border-radius: 10px;
-    background-color: #213749;
-
+    border-radius: 8px;
+    background-color: #1b5090;
+    color: #fff;
+    font-family: inherit;
+    transition: all 0.5s;
+  }
+  .abtn:hover{
+    background-color: #0794D0;
+    /* color: black; */
   }
   .timeline ul li {
     margin-left: 20px;

@@ -12,7 +12,7 @@ const Udhyog = () => {
         <div className="heading">Main Events</div>
       </div>
       <div className="upcoming-event-list">
-        <div className="event-block last">
+        <div className="event-block">
           <div className="row">
             <div className="col-lg-2 sec-1">
               <table>
@@ -55,6 +55,50 @@ const Udhyog = () => {
           </div>
         </div>
 
+
+        <div className="event-block last">
+        <div className="row">
+          <div className="col-lg-2 sec-1">
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <div className="month">Apr</div>
+                    <div className="month-date-devider" />
+                    <div className="date">7</div>
+                  </td>
+                  <td className="title">Adhyayan</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="col-lg-5 sec-2">
+            <img src='/assets/images/events/adhyayan.jpg' />
+          </div>
+          <div className="col-lg-5 sec-3">
+            <div className="title">Adhyayan</div>
+            
+            
+            <div className="sort-story">
+            Adhyayan is a business case study competition that involves strategizing about the corporate picture at a higher level. It'll be a fun but challenging problem statement about a really successful enterprise.
+            </div>
+           <div className="group-of-btn">
+              <a
+                href="https://www.google.com"
+                target="blank"
+                className="btn book-ticket"
+                onClick={() => {
+                  window.location = "/events/adhyayan";
+                }}
+              >
+                Read More...
+              </a>
+              </div> 
+          </div>
+        </div>
+      </div>
+
+
         <div className="upcoming-sec">
           <div className="heading">Pre Events</div>
         </div>
@@ -84,40 +128,14 @@ const Udhyog = () => {
                   <table>
                     <tbody>
                       <tr>
-                      {/*   <td>
-                          <i className="fa fa-map-marker" />
-                        </td>
-                        <td>
-                           <div>Gyan Manch</div>
-                          <div className="dim-color">
-                            <a
-                              href="https://www.google.co.in"
-                              target="blank"
-                            >
-                              Get Directions
-                            </a>
-                          </div>
-                        </td>  */}
+                      
                       </tr>
                     </tbody>
                   </table>
                 </div>
                 <div className="time">
                   <table>
-                  {/*  <tbody>
-                      <tr>
-                        <td>
-                          <i className="fa fa-clock-o" />
-                        </td>
-                        <td>
-                          <div>Sat, Apr 27, at 5:30 PM</div>
-                          <div
-                            data-livestamp={1517054400}
-                            className="dim-color"
-                          />
-                        </td>
-                      </tr>
-                    </tbody>  */}
+                  
                   </table>
                 </div>
                 <div className="sort-story">
@@ -153,40 +171,14 @@ const Udhyog = () => {
                   <table>
                     <tbody>
                       <tr>
-                      {/*   <td>
-                          <i className="fa fa-map-marker" />
-                        </td>
-                       <td>
-                          <div>Gyan Manch</div>
-                          <div className="dim-color">
-                            <a
-                              href="https://www.google.co.in"
-                              target="blank"
-                            >
-                              Get Directions
-                            </a>
-                          </div>
-</td> */}
+                     
                       </tr>
                     </tbody>
                   </table>
                 </div>
                 <div className="time">
                   <table>
-                  {/*  <tbody>
-                      <tr>
-                        <td>
-                          <i className="fa fa-clock-o" />
-                        </td>
-                        <td>
-                          <div>Sat, Apr 27, at 5:30 PM</div>
-                          <div
-                            data-livestamp={1517054400}
-                            className="dim-color"
-                          />
-                        </td>
-                      </tr>
-                    </tbody> */}
+                
                   </table>
                 </div>
                 <div className="sort-story">

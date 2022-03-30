@@ -53,7 +53,7 @@ function Announcement(){
               We are pleased to introduce you to Adhyayan'22.
               Adhyayan is a business case study competition that involves strategizing about the corporate picture at a higher level.<br></br> It'll be a fun but challenging problem statement about a really successful enterprise. <br></br>
               You can participate in teams of 2-3 people. Prizes are worth upto 4.5K.
-              <br></br><a href = "https://forms.gle/HkyoR1fuctY4svLa6" target = "_blank"><button className='register'> Register</button></a>
+              <br></br><a href = "https://forms.gle/HkyoR1fuctY4svLa6" target = "_blank"><button className='abtn' id="announcement"> Register</button></a>
            
               </div>
           </li>
@@ -63,8 +63,8 @@ function Announcement(){
               Udyog allows you to put yourself in the shoes of a chemical engineer and attempt to understand and analyse their role in various situations. You will be provided with a problem statement featuring chemical concepts. <br></br>
               Circumstances and situations faced in a given particular concept will be provided to you in the problem statement and you are expected to submit a solution on how to tackle those problems. 
               Registrations start on 29th of March and are open till 1st of April.<br></br>
-              Do register in the below attached google form. Teams of maximum size 3 are allowed.
-              <br></br><a href = "https://forms.gle/Tcc8QpfrLtuyi9zbA" target = "_blank"><button className='register'> Register</button></a>
+              Do abtn in the below attached google form. Teams of maximum size 3 are allowed.
+              <br></br><a href = "https://forms.gle/Tcc8QpfrLtuyi9zbA" target = "_blank"><button className='abtn' id="announcement"> Register</button></a>
             
               </div>
           </li>
@@ -74,7 +74,7 @@ function Announcement(){
               Power up the creative part of yourselves as we present to you the most enthralling competition of our flagship event OSMOZE'22 - CHEM-E-MEME.
               Here is this amazing chance to create memes featuring chemical concepts that captivates everyone!!<br></br>
               for details and rules of Chem-E-Memecheck your mail box!<br></br>
-               <a href = "https://forms.gle/JkPtdonAo6aK84i59" target = "_blank"><button className='register'> Register</button></a>
+               <a href = "https://forms.gle/JkPtdonAo6aK84i59" target = "_blank"><button className='abtn' id="announcement"> Register</button></a>
               
             </div>
           </li>

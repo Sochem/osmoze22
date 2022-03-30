@@ -21,12 +21,12 @@ function App() {
 					<Switch>
           <Route exact path = "/" component = {HomePage}/>
             <Route exact path = "/events" component = {Events}/>
-            <Route path = "/team" component = {Team}/>
-            <Route path = "/announcement" component = {Announcement}/>
-            <Route path = "/events/chemcoding" component = {Chemcoding}/>
-            <Route path = "/events/chemathon" component = {Chemathon}/>
-            <Route path = "/events/adhyayan" component = {Adhyayan}/>
-            <Route path = "/events/udhyog" component = {Udhyog}/>
+            <Route exact path = "/team" component = {Team}/>
+            <Route exact path = "/announcement" component = {Announcement}/>
+            <Route exact path = "/events/chemcoding" component = {Chemcoding}/>
+            <Route exact path = "/events/chemathon" component = {Chemathon}/>
+            <Route exact path = "/events/adhyayan" component = {Adhyayan}/>
+            <Route exact path = "/events/udhyog" component = {Udhyog}/>
 						<Redirect to="/" />
 					</Switch>
         <Footer />  

@@ -32,7 +32,7 @@ const Udhyog = () => {
               <img src='/assets/images/events/Udyog.png' />
             </div>
             <div className="col-lg-5 sec-3">
-              <div className="title">Udhyog</div>
+              <div className="title">Udyog</div>
               
               
               <div className="sort-story">

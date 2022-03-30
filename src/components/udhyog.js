@@ -6,7 +6,7 @@ const Events = () => {
     <div>
       <div className="page-event">
         <div className="cover">
-          <div className="heading preeventhead">Udhyog</div>
+          <div className="heading preeventhead">Udyog</div>
         </div>
         <div className="container">
           <div className="upcoming-event-list">
@@ -26,8 +26,8 @@ const Events = () => {
                       <br></br> <br></br>
                       <div className="title">Announcement</div>
                       <div className="sort-story">
-                      <b>Registrations start on 29th of March and are open till 1st of April.</b> Don't wait till the eleventh hour!! The problem statement will be released along with further details on 2nd of April. <b>Teams of maximum size 3 are allowed.</b> 
-                        Anticipating a huge number of participation as this will undoubtedly entertain you!!  
+                      <b>Registrations start on 29th of March and are open till 1st of April.</b> Don't wait till the eleventh hour!! The problem statement will be released along with further details on 2nd of April. <b>Teams of maximum size 3 are allowed. </b> 
+              Anticipating a huge number of participation as this will undoubtedly entertain you!!  
                       <br></br><br></br> 
                       <a href = "https://forms.gle/Tcc8QpfrLtuyi9zbA" target = "_blank"><button className='register'> Register</button></a>
  

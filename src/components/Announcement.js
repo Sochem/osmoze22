@@ -48,8 +48,6 @@ function Announcement() {
               1.Aditya Kumar Singh (20045008) <br></br>
               2.Yashwardhan (21045147) <br></br>
               3.Jeet Gupta (21045064) <br></br>
-              <b>Prize will be rolled out within 48 hours.</b> 
-              <br></br>
             </div>
           </li>
           <li>

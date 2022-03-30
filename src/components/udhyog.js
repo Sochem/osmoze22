@@ -27,7 +27,7 @@ const Events = () => {
                       <div className="title">Announcement</div>
                       <div className="sort-story">
                       <b>Registrations start on 29th of March and are open till 1st of April.</b> Don't wait till the eleventh hour!! The problem statement will be released along with further details on 2nd of April. <b>Teams of maximum size 3 are allowed. </b> 
-              Anticipating a huge number of participation as this will undoubtedly entertain you!!  
+                      Anticipating a huge number of participation as this will undoubtedly entertain you!!  
                       <br></br><br></br> 
                       <a href = "https://forms.gle/Tcc8QpfrLtuyi9zbA" target = "_blank"><button className='register'> Register</button></a>
  

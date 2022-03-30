@@ -150,9 +150,10 @@
 }
  @media (max-width: 991px) {
 	 .page-event .cover .heading {
-		 font-size: 180px;
-		 padding-top: 7vh;
+		 font-size: 50px !important;
+		 padding-top: 2vh;
 	}
+	
 	 .upcoming-event-list .event-block .sec-3 .title {
 		 display: none;
 	}
@@ -167,7 +168,7 @@
 }
  @media (max-width: 767px) {
 	 .page-event .cover .heading {
-		 font-size: 140px;
+		 font-size: 80px;
 		 padding-top: 11vh;
 	}
 	.register{
@@ -178,11 +179,10 @@
 	
 		color: #fff;
 	  }
-
 }
  @media (max-width: 575px) {
 	 .page-event .cover {
-		 height: 214px;
+		 height: 180px;
 	}
 
 	 .page-event .cover .heading {

@@ -133,13 +133,18 @@ const Udhyog = () => {
                     </tbody>
                   </table>
                 </div>
-                <div className="time">
-                  <table>
-                  
-                  </table>
-                </div>
+              
                 <div className="sort-story">
-                Osmocross is a fun crossword solving event, with 2 challenges based on different themes. The Osmocross challenge will be mailed to you tonight 28th March at 10 PM and the answers need to submit before 28th March at 11 PM  The responses are to be filled in the shared Google form. And in the case of a tie, the answer solved in the least stimulated time will be given preference.
+                Osmocross is a fun crossword solving event, with 2 challenges based on different themes. The Osmocross challenge will be mailed to you tonight 28th March at 10 PM and the answers need to submit before 28th March at 11 PM  The responses are to be filled in the shared Google form. And in the case of a tie, the answer solved in the least stimulated time will be given preference.<br></br><br></br>
+                <div className="title">Result</div>
+                      <div className="sort-story">
+                    <b>  Results are out now!.<br></br> </b>
+              1.Aditya Kumar Singh (20045008) <br></br>
+              2.Yashwardhan (21045147) <br></br>
+              3.Jeet Gupta (21045064) <br></br>
+              <b>  Prize will be rolled out within 48 hours. </b> 
+              <br></br>
+                  </div>  
                 </div>
                 {/* ************************************************************************* */}
               </div>
@@ -167,20 +172,6 @@ const Udhyog = () => {
               </div>
               <div className="col-lg-5 sec-3">
                 <div className="title">Chem-E-Meme</div>
-                <div className="venue">
-                  <table>
-                    <tbody>
-                      <tr>
-                     
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-                <div className="time">
-                  <table>
-                
-                  </table>
-                </div>
                 <div className="sort-story">
                 Power up the creative part of yourselves as we present to you the most enthralling competition of our flagship event OSMOZE'22 - CHEM-E-MEME.
 

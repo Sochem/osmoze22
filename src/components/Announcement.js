@@ -41,6 +41,17 @@ function Announcement() {
         <div id="stars2"></div>
         <div id="stars3"></div>
         <ul>
+        <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>March 30 2022</time> <h3>OSMOCROSS result</h3>
+              <b>Results are out now!</b><br></br> 
+              1.Aditya Kumar Singh (20045008) <br></br>
+              2.Yashwardhan (21045147) <br></br>
+              3.Jeet Gupta (21045064) <br></br>
+              <b>Prize will be rolled out within 48 hours.</b> 
+              <br></br>
+            </div>
+          </li>
           <li>
             <div style={{ overflow: "hidden" }}>
               <time>March 29 2022</time> <h3>Registrations for ADHYAYAN</h3>

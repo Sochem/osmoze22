@@ -107,7 +107,7 @@ const Udhyog = () => {
                   <td>
                     <div className="month">Apr</div>
                     <div className="month-date-devider"/>
-                    <div className="date">7</div>
+                    <div className="date">5</div>
                   </td>
                   <td className="title">ChemCoding</td>
                 </tr>

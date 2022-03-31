@@ -24,7 +24,7 @@ const Events = () => {
                       <div className="title">Announcement</div>
                       <div className="sort-story">
                       Registrations from: 31st March to 2nd April 11:59 PM <br></br>
-Test date : 4th April 2022 <br></br>
+                      Test date : 4th April 2022 <br></br>
                       <b>Win cash prizes worth 4500 !
                       </b>  
                       <br></br><br></br> 

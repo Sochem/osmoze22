@@ -321,10 +321,42 @@ const Udhyog = () => {
                   <div className="col-lg-5 sec-3">
                     <div className="title">Chem-E-Meme</div>
                     <div className="sort-story">
-                      Power up the creative part of yourselves as we present to
-                      you the most enthralling competition of our flagship event
-                      OSMOZE'22 - CHEM-E-MEME.
+                    Power up the creative part of yourselves as we present to
+                    you the most enthralling competition of our flagship event
+                    OSMOZE'22 - CHEM-E-MEME.
+                    <br></br>
+                    You have to fill your responses in the attached google
+                    form link. Memes copied from any external sources will
+                    lead to disqualification. <br></br>Points distribution :{" "}
+                    <br></br>1 like = 10 points <br></br>1 share = 20 points{" "}
+                    <br></br>
+                    Creativity = 50 points
+                    <br></br>Extra 20 points will be awarded per story share
+                    with SoChem tagged on it .<br></br>(Note:- multiple
+                    stories with one person will lead to disqualification ){" "}
+                    <br></br>
+                    Likes of those will be considered who are following Sochem
+                    on the Instagram page (sochem_iitbhu). <br></br>Fake likes
+                    will lead to disqualification from the contest. <br></br>
+                    If you are facing any difficulty regarding sending an
+                    entry to the page, you can mail it with exact details to
+                    the coordinators. In case of a tie, the entry received
+                    first will be given.
+                    <br></br>
+                    <div className="group-of-btn">
+                      <a
+                        href="https://forms.gle/JkPtdonAo6aK84i59"
+                        target="blank"
+                        className="btn book-ticket"
+                      >
+                        Submit
+                      </a>
                     </div>
+                    <br></br>
+                    The winner of the events will be rewarded with exciting
+                    prizes!!!
+                    <br></br>
+                  </div>
                     {/* ************************************************************************* */}
                   </div>
                 </div>

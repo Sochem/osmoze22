@@ -43,6 +43,26 @@ function Announcement() {
         <ul>
         <li>
             <div style={{ overflow: "hidden" }}>
+              <time>April 04 2022</time> <h3>Registrations for Chemathon</h3>
+              Osmoze'22 presents you " Chemathon - The virtual internship and
+              placement event" exclusively for registered Sochem members. The
+              event comprises an online aptitude test followed by the interviews
+              of shortlisted candidates. Win cash prizes worth 4500!
+              <br></br>
+              <br></br>
+              <b>Registration Date: </b>31-03-22 to 02-04-22 till 11:59
+              <br></br>
+              <a href="https://forms.gle/faU1fFkaeoEkgJeJ7" target="_blank">
+                <button className="abtn" id="announcement">
+                  {" "}
+                  Register
+                </button>
+              </a>
+            </div>
+          </li>
+          
+        <li>
+            <div style={{ overflow: "hidden" }}>
               <time>March 30 2022</time> <h3>Guest Lecture</h3>
               Want to Crack that code for strengthening your DSA? Then this enthralling news is for you! 
 

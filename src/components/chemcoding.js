@@ -13,7 +13,7 @@ const Events = () => {
             <div className="event-block last">
               <div className="row">
                 <div className="col-lg-5 sec-2">
-                  <img src='/assets/images/events/Udyog.png'/>
+                  <img src='/assets/images/events/chemcoding.jpg'/>
                 </div>
                 <div className="col-lg-7 sec-3">
                   <div className="title">About The Event</div>

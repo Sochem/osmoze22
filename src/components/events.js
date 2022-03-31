@@ -115,7 +115,7 @@ const Udhyog = () => {
             </table>
           </div>
           <div className="col-lg-5 sec-2">
-            <img src='/assets/images/events/adhyayan.jpg' />
+            <img src='/assets/images/events/chemcoding.jpg' />
           </div>
           <div className="col-lg-5 sec-3">
             <div className="title"> ChemCoding</div>

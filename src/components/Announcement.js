@@ -43,6 +43,20 @@ function Announcement() {
         <ul>
         <li>
             <div style={{ overflow: "hidden" }}>
+              <time>March 30 2022</time> <h3>Registrations for ChemCoding</h3>
+              Coding is arguably one of the most important skills for current as well as future generations to learn that would be an important part of one's carrer in the long run. Osmoze is back with the opportunity to test your skills through an exhilarating coding event, ChemCoding. <br></br>
+              ChemCoding is open only for sochem registered members. It is an individual event.
+              <br></br>
+              <a href="https://forms.gle/83QZT7YxScSCuArPA" target="_blank">
+                <button className="abtn" id="announcement">
+                  {" "}
+                  Register
+                </button>
+              </a>
+            </div>
+          </li>
+        <li>
+            <div style={{ overflow: "hidden" }}>
               <time>March 30 2022</time> <h3>OSMOCROSS result</h3>
               <b>Results are out now!</b><br></br> 
               1.Aditya Kumar Singh (20045008) <br></br>

@@ -23,7 +23,7 @@ const Udhyog = () => {
                       <div className="month-date-devider" />
                       <div className="date">7</div>
                     </td>
-                    <td className="title">Udhyog</td>
+                    <td className="title">Udyog</td>
                   </tr>
                 </tbody>
               </table>
@@ -54,9 +54,9 @@ const Udhyog = () => {
             </div>
           </div>
         </div>
+        
 
-
-        <div className="event-block last">
+        <div className="event-block">
         <div className="row">
           <div className="col-lg-2 sec-1">
             <table>
@@ -89,6 +89,48 @@ const Udhyog = () => {
                 className="btn book-ticket"
                 onClick={() => {
                   window.location = "/events/adhyayan";
+                }}
+              >
+                Read More...
+              </a>
+              </div> 
+          </div>
+        </div>
+      </div>
+
+      <div className="event-block last">
+        <div className="row">
+          <div className="col-lg-2 sec-1">
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <div className="month">Apr</div>
+                    <div className="month-date-devider"/>
+                    <div className="date">7</div>
+                  </td>
+                  <td className="title">ChemCoding</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div className="col-lg-5 sec-2">
+            <img src='/assets/images/events/adhyayan.jpg' />
+          </div>
+          <div className="col-lg-5 sec-3">
+            <div className="title"> ChemCoding</div>
+            
+            
+            <div className="sort-story">
+            Coding is arguably one of the most important skills for current as well as future generations to learn that would be an important part of one's carrer in the long run.
+            </div>
+           <div className="group-of-btn">
+              <a
+                href="https://www.google.com"
+                target="blank"
+                className="btn book-ticket"
+                onClick={() => {
+                  window.location = "/events/chemcoding";
                 }}
               >
                 Read More...
@@ -139,10 +181,10 @@ const Udhyog = () => {
                 <div className="title">Result</div>
                       <div className="sort-story">
                     <b>  Results are out now!.<br></br> </b>
-              1.Aditya Kumar Singh (20045008) <br></br>
-              2.Yashwardhan (21045147) <br></br>
-              3.Jeet Gupta (21045064) <br></br>
-              <b>  Prize will be rolled out within 48 hours. </b> 
+                        1.Aditya Kumar Singh (20045008) <br></br>
+                        2.Yashwardhan (21045147) <br></br>
+                        3.Jeet Gupta (21045064) <br></br>
+                          
               <br></br>
                   </div>  
                 </div>

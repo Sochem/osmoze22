@@ -43,6 +43,25 @@ function Announcement() {
         <ul>
         <li>
             <div style={{ overflow: "hidden" }}>
+              <time>March 30 2022</time> <h3>Guest Lecture</h3>
+              Want to Crack that code for strengthening your DSA? Then this enthralling news is for you! 
+
+                  SoChem in collaboration with Geeks for Geeks is hosting a session exclusively focusing on the Data Structures and Algorithms. This simplifies your preparation much easy for ChemCoding contest. And guess what else? You will be awarded points for Mr. & Ms. Chemical title. 
+                  <br></br>
+                  <b>Date: 3rd April 2022</b>
+                  <br></br>
+                  <b>Time: 4:00 PM</b>
+                  <br></br>
+              <a href="https://bit.ly/3uHrcYH" target="_blank">
+                <button className="abtn" id="announcement">
+                  {" "}
+                  Register
+                </button>
+              </a>
+            </div>
+          </li>
+        <li>
+            <div style={{ overflow: "hidden" }}>
               <time>March 30 2022</time> <h3>Registrations for ChemCoding</h3>
               Coding is arguably one of the most important skills for current as well as future generations to learn that would be an important part of one's carrer in the long run. Osmoze is back with the opportunity to test your skills through an exhilarating coding event, ChemCoding. <br></br>
               ChemCoding is open only for sochem registered members. It is an individual event.
@@ -57,7 +76,7 @@ function Announcement() {
           </li>
         <li>
             <div style={{ overflow: "hidden" }}>
-              <time>March 30 2022</time> <h3>OSMOCROSS result</h3>
+              <time>March 30 2022</time> <h3>OSMOCROSS - 1 result</h3>
               <b>Results are out now!</b><br></br> 
               1.Aditya Kumar Singh (20045008) <br></br>
               2.Yashwardhan (21045147) <br></br>

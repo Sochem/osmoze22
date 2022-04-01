@@ -41,7 +41,18 @@ function Announcement() {
         <div id="stars2"></div>
         <div id="stars3"></div>
         <ul>
-        <li>
+          <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 01 2022</time> <h3>Udyog</h3>
+              Problem Statement for <b>Udyog</b> has been released. Check out
+              the events page!
+              <br></br>
+              <br></br>
+              <b>Deadline:</b> 03-04-22 till 11:59 pm
+              <br></br>
+            </div>
+          </li>
+          <li>
             <div style={{ overflow: "hidden" }}>
               <time>April 04 2022</time> <h3>Registrations for Chemathon</h3>
               Osmoze'22 presents you " Chemathon - The virtual internship and
@@ -60,18 +71,21 @@ function Announcement() {
               </a>
             </div>
           </li>
-          
-        <li>
+
+          <li>
             <div style={{ overflow: "hidden" }}>
               <time>March 30 2022</time> <h3>Guest Lecture</h3>
-              Want to Crack that code for strengthening your DSA? Then this enthralling news is for you! 
-
-                  SoChem in collaboration with Geeks for Geeks is hosting a session exclusively focusing on the Data Structures and Algorithms. This simplifies your preparation much easy for ChemCoding contest. And guess what else? You will be awarded points for Mr. & Ms. Chemical title. 
-                  <br></br>
-                  <b>Date: 3rd April 2022</b>
-                  <br></br>
-                  <b>Time: 4:00 PM</b>
-                  <br></br>
+              Want to Crack that code for strengthening your DSA? Then this
+              enthralling news is for you! SoChem in collaboration with Geeks
+              for Geeks is hosting a session exclusively focusing on the Data
+              Structures and Algorithms. This simplifies your preparation much
+              easy for ChemCoding contest. And guess what else? You will be
+              awarded points for Mr. & Ms. Chemical title.
+              <br></br>
+              <b>Date: 3rd April 2022</b>
+              <br></br>
+              <b>Time: 4:00 PM</b>
+              <br></br>
               <a href="https://bit.ly/3uHrcYH" target="_blank">
                 <button className="abtn" id="announcement">
                   {" "}
@@ -80,11 +94,16 @@ function Announcement() {
               </a>
             </div>
           </li>
-        <li>
+          <li>
             <div style={{ overflow: "hidden" }}>
               <time>March 30 2022</time> <h3>Registrations for ChemCoding</h3>
-              Coding is arguably one of the most important skills for current as well as future generations to learn that would be an important part of one's carrer in the long run. Osmoze is back with the opportunity to test your skills through an exhilarating coding event, ChemCoding. <br></br>
-              ChemCoding is open only for sochem registered members. It is an individual event.
+              Coding is arguably one of the most important skills for current as
+              well as future generations to learn that would be an important
+              part of one's carrer in the long run. Osmoze is back with the
+              opportunity to test your skills through an exhilarating coding
+              event, ChemCoding. <br></br>
+              ChemCoding is open only for sochem registered members. It is an
+              individual event.
               <br></br>
               <a href="https://forms.gle/83QZT7YxScSCuArPA" target="_blank">
                 <button className="abtn" id="announcement">
@@ -94,10 +113,11 @@ function Announcement() {
               </a>
             </div>
           </li>
-        <li>
+          <li>
             <div style={{ overflow: "hidden" }}>
               <time>March 30 2022</time> <h3>OSMOCROSS - 1 result</h3>
-              <b>Results are out now!</b><br></br> 
+              <b>Results are out now!</b>
+              <br></br>
               1.Aditya Kumar Singh (20045008) <br></br>
               2.Yashwardhan (21045147) <br></br>
               3.Jeet Gupta (21045064) <br></br>
@@ -166,9 +186,10 @@ function Announcement() {
               Osmocross is a fun crossword solving event, with 2 challenges
               based on different themes. The Osmocross challenge will be mailed
               to you tonight 28th March at 10 PM and the answers need to submit
-              before 28th March at 11 PM.<br></br> The responses are to be filled in the
-              shared Google form and in the case of a tie, the answer solved in
-              the least stimulated time will be given preference.
+              before 28th March at 11 PM.<br></br> The responses are to be
+              filled in the shared Google form and in the case of a tie, the
+              answer solved in the least stimulated time will be given
+              preference.
             </div>
           </li>
           <li>
@@ -177,8 +198,8 @@ function Announcement() {
               We are delighted to declare the Chemical engineering extravaganza
               of IIT(BHU) Varanasi is to be held from 4th to 8th of April 2022.
               Get yourself ready for exciting events that shall truly lift up
-              the spirit of this engineering gala in days to come! <br></br>Until Then
-              Stay Tuned
+              the spirit of this engineering gala in days to come! <br></br>
+              Until Then Stay Tuned
             </div>
           </li>
         </ul>

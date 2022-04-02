@@ -41,6 +41,27 @@ function Announcement() {
         <div id="stars2"></div>
         <div id="stars3"></div>
         <ul>
+        <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 02 2022</time> <h3>Registrations for Symposium</h3>
+              OSMOZE'22 presents to you its glorious event - Symposium. The event comprises two rounds in which group discussions and turncoat will be held.
+              The event is exclusively for SoChem members.Cash prizes worth INR 3000
+              <br></br>
+              <br></br>
+              <b>Timeline:</b><br></br>
+              Registrations closes on 4th April 11:59 PM
+              Event date: 7th April
+              <br></br>
+              <a href="https://forms.gle/FFtBjtA1QQZAJgU17 " target="_blank">
+                <button className="abtn" id="announcement">
+                  {" "}
+                  Register
+                </button>
+              </a>
+            </div>
+          </li>
+
+
           <li>
             <div style={{ overflow: "hidden" }}>
               <time>April 01 2022</time> <h3>Udyog</h3>

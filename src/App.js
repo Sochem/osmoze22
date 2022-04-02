@@ -11,6 +11,7 @@ import Chemcoding from './components/chemcoding';
 import Chemathon from './components/chemathon';
 import Adhyayan from './components/Adhyayan';
 import Udhyog from './components/udhyog';
+import Symposium from './components/Symposium'
 import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-dom";
 
 function App() {
@@ -27,6 +28,8 @@ function App() {
             <Route exact path = "/events/chemathon" component = {Chemathon}/>
             <Route exact path = "/events/adhyayan" component = {Adhyayan}/>
             <Route exact path = "/events/udhyog" component = {Udhyog}/>
+            <Route exact path = "/events/Symposium" component = {Symposium}/>
+
 						<Redirect to="/" />
 					</Switch>
         <Footer />  

@@ -144,6 +144,53 @@ const Udhyog = () => {
               </div>
             </div>
 
+            
+
+            <div className="event-block">
+              <div className="row">
+                <div className="col-lg-2 sec-1">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <div className="month">Apr</div>
+                          <div className="month-date-devider" />
+                          <div className="date">5</div>
+                        </td>
+                        <td className="title">Chemathon</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div className="col-lg-5 sec-2">
+                  <img src="/assets/images/events/chemathon.png" />
+                </div>
+                <div className="col-lg-5 sec-3">
+                  <div className="title"> Chemathon</div>
+
+                  <div className="sort-story">
+                    <b>
+                      Chemathon - The virtual internship and placement event
+                    </b>{" "}
+                    exclusively for registered Sochem members . The event
+                    comprises an online aptitude test followed by the interviews
+                    of shortlisted candidates. Win cash prizes worth 4500 !
+                  </div>
+                  <div className="group-of-btn">
+                    <a
+                      href="https://www.google.com"
+                      target="blank"
+                      className="btn book-ticket"
+                      onClick={() => {
+                        window.location = "/events/chemathon";
+                      }}
+                    >
+                      Read More...
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
 
             <div className="event-block last">
             <div className="row">
@@ -156,19 +203,20 @@ const Udhyog = () => {
                         <div className="month-date-devider" />
                         <div className="date">5</div>
                       </td>
-                      <td className="title">Chemathon</td>
+                      <td className="title">Symposium</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
               <div className="col-lg-5 sec-2">
-                <img src="/assets/images/events/chemathon.png" />
+                <img src="/assets/images/events/Symposium.png" />
               </div>
               <div className="col-lg-5 sec-3">
-                <div className="title"> Chemathon</div>
+                <div className="title"> Symposium</div>
 
                 <div className="sort-story">
-                <b>Chemathon - The virtual internship and placement event</b> exclusively for registered Sochem members . The event comprises an online aptitude test followed by the interviews of shortlisted candidates.  Win cash prizes worth 4500 ! 
+                Want to have a good time while learning something new?? Osmoze'22 has you covered with its event "SYMPOSIUM" - A perfect opportunity to enhance your soft skills!!
+
                 </div>
                 <div className="group-of-btn">
                   <a
@@ -176,7 +224,7 @@ const Udhyog = () => {
                     target="blank"
                     className="btn book-ticket"
                     onClick={() => {
-                      window.location = "/events/chemathon";
+                      window.location = "/events/Symposium";
                     }}
                   >
                     Read More...
@@ -246,7 +294,6 @@ const Udhyog = () => {
                 </div>
               </div>
             </div>
-
 
             <div className="upcoming-sec">
               <div className="heading">Pre Events</div>
@@ -321,49 +368,47 @@ const Udhyog = () => {
                   <div className="col-lg-5 sec-3">
                     <div className="title">Chem-E-Meme</div>
                     <div className="sort-story">
-                    Power up the creative part of yourselves as we present to
-                    you the most enthralling competition of our flagship event
-                    OSMOZE'22 - CHEM-E-MEME.
-                    <br></br>
-                    You have to fill your responses in the attached google
-                    form link. Memes copied from any external sources will
-                    lead to disqualification. <br></br>Points distribution :{" "}
-                    <br></br>1 like = 10 points <br></br>1 share = 20 points{" "}
-                    <br></br>
-                    Creativity = 50 points
-                    <br></br>Extra 20 points will be awarded per story share
-                    with SoChem tagged on it .<br></br>(Note:- multiple
-                    stories with one person will lead to disqualification ){" "}
-                    <br></br>
-                    Likes of those will be considered who are following Sochem
-                    on the Instagram page (sochem_iitbhu). <br></br>Fake likes
-                    will lead to disqualification from the contest. <br></br>
-                    If you are facing any difficulty regarding sending an
-                    entry to the page, you can mail it with exact details to
-                    the coordinators. In case of a tie, the entry received
-                    first will be given.
-                    <br></br>
-                    <div className="group-of-btn">
-                      <a
-                        href="https://forms.gle/JkPtdonAo6aK84i59"
-                        target="blank"
-                        className="btn book-ticket"
-                      >
-                        Submit
-                      </a>
+                      Power up the creative part of yourselves as we present to
+                      you the most enthralling competition of our flagship event
+                      OSMOZE'22 - CHEM-E-MEME.
+                      <br></br>
+                      You have to fill your responses in the attached google
+                      form link. Memes copied from any external sources will
+                      lead to disqualification. <br></br>Points distribution :{" "}
+                      <br></br>1 like = 10 points <br></br>1 share = 20 points{" "}
+                      <br></br>
+                      Creativity = 50 points
+                      <br></br>Extra 20 points will be awarded per story share
+                      with SoChem tagged on it .<br></br>(Note:- multiple
+                      stories with one person will lead to disqualification ){" "}
+                      <br></br>
+                      Likes of those will be considered who are following Sochem
+                      on the Instagram page (sochem_iitbhu). <br></br>Fake likes
+                      will lead to disqualification from the contest. <br></br>
+                      If you are facing any difficulty regarding sending an
+                      entry to the page, you can mail it with exact details to
+                      the coordinators. In case of a tie, the entry received
+                      first will be given.
+                      <br></br>
+                      <div className="group-of-btn">
+                        <a
+                          href="https://forms.gle/JkPtdonAo6aK84i59"
+                          target="blank"
+                          className="btn book-ticket"
+                        >
+                          Submit
+                        </a>
+                      </div>
+                      <br></br>
+                      The winner of the events will be rewarded with exciting
+                      prizes!!!
+                      <br></br>
                     </div>
-                    <br></br>
-                    The winner of the events will be rewarded with exciting
-                    prizes!!!
-                    <br></br>
-                  </div>
                     {/* ************************************************************************* */}
                   </div>
                 </div>
               </div>
             </div>
-
-            
           </div>
         </div>
       </div>

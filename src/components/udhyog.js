@@ -33,14 +33,12 @@ const Events = () => {
                     <div className="title">Announcement</div>
                     <div className="sort-story">
                       {" "}
-                      The problem statement has been released.{" "}
-                      <b>Teams of maximum size 3 are allowed. </b>
-                      Anticipating a huge number of participation as this will
-                      undoubtedly entertain you!!
+                      The shortlisted teams for PPT round are-<br></br>
+                      1. Team Blemish<br></br>
+                      2. Team Catalyst<br></br>
+                      3. Team Achilles<br></br>
+                      The deadline for PPT submission is 6th April EOD
                       <br></br>
-                      Further details are mentioned in the problem statement.
-                      <br></br>
-                      <b>Deadline:</b> 03-04-22 till 11:59 pm<br></br>
                       <br></br>
                       <a
                         href="https://drive.google.com/file/d/1HsSymd6LSLlif0rS-zzIX6K2BYkOXIKF/view?usp=drivesdk"

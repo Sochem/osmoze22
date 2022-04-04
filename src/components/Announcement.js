@@ -43,6 +43,18 @@ function Announcement() {
         <ul>
         <li>
             <div style={{ overflow: "hidden" }}>
+              <time>April 04 2022</time> <h3>Udyog - shortlisting for ppt round</h3>
+              The shortlisted teams for PPT round are-<br></br>
+              1. Team Blemish<br></br>
+              2. Team Catalyst<br></br>
+              3. Team Achilles<br></br>
+              <br></br>
+              The deadline for PPT submission is 6th April EOD.
+            </div>
+          </li>
+
+        <li>
+            <div style={{ overflow: "hidden" }}>
               <time>April 02 2022</time> <h3>Registrations for Symposium</h3>
               OSMOZE'22 presents to you its glorious event - Symposium. The event comprises two rounds in which group discussions and turncoat will be held.
               The event is exclusively for SoChem members.Cash prizes worth INR 3000

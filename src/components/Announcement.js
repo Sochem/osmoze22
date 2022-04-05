@@ -41,9 +41,17 @@ function Announcement() {
         <div id="stars2"></div>
         <div id="stars3"></div>
         <ul>
-        <li>
+          <li>
             <div style={{ overflow: "hidden" }}>
-              <time>April 04 2022</time> <h3>Udyog - shortlisting for ppt round</h3>
+              <time>April 05 2022</time> <h3>ChemCoding- Time Announcement</h3>
+              The coding round will start at 5 p.m., 5th April'22. The link has
+              been mailed to the participants.<br></br>
+            </div>
+          </li>
+          <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 04 2022</time>{" "}
+              <h3>Udyog - shortlisting for ppt round</h3>
               The shortlisted teams for PPT round are-<br></br>
               1. Team Blemish<br></br>
               2. Team Catalyst<br></br>
@@ -53,16 +61,18 @@ function Announcement() {
             </div>
           </li>
 
-        <li>
+          <li>
             <div style={{ overflow: "hidden" }}>
               <time>April 02 2022</time> <h3>Registrations for Symposium</h3>
-              OSMOZE'22 presents to you its glorious event - Symposium. The event comprises two rounds in which group discussions and turncoat will be held.
-              The event is exclusively for SoChem members.Cash prizes worth INR 3000
+              OSMOZE'22 presents to you its glorious event - Symposium. The
+              event comprises two rounds in which group discussions and turncoat
+              will be held. The event is exclusively for SoChem members.Cash
+              prizes worth INR 3000
               <br></br>
               <br></br>
-              <b>Timeline:</b><br></br>
-              Registrations closes on 4th April 11:59 PM
-              Event date: 7th April
+              <b>Timeline:</b>
+              <br></br>
+              Registrations closes on 4th April 11:59 PM Event date: 7th April
               <br></br>
               <a href="https://forms.gle/FFtBjtA1QQZAJgU17 " target="_blank">
                 <button className="abtn" id="announcement">
@@ -72,7 +82,6 @@ function Announcement() {
               </a>
             </div>
           </li>
-
 
           <li>
             <div style={{ overflow: "hidden" }}>

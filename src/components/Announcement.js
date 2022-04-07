@@ -41,9 +41,21 @@ function Announcement() {
         <div id="stars2"></div>
         <div id="stars3"></div>
         <ul>
+        <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 07 2022</time> <h3>Result - Osmocross</h3>
+              Here is the results of the intruiging osmocross II <br></br><br></br>
+             🥇Aditya Kumar Singh-Part 2 <br></br>
+             🥈Naman Lakhotia-Part 1 <br></br>
+             🥉Satyam-Part 1 <br></br>
+             Kudos to the winners! One more to go, lift your spirits and gather your wits.<br></br>
+            </div>
+          </li>
+
+
           <li>
             <div style={{ overflow: "hidden" }}>
-              <time>April 05 2022</time> <h3>ChemCoding- Time Announcement</h3>
+              <time>April 05 2022</time> <h3>ChemCoding - Time Announcement</h3>
               The coding round will start at 5 p.m., 5th April'22. The link has
               been mailed to the participants.<br></br>
             </div>

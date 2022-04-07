@@ -144,7 +144,7 @@ const Udhyog = () => {
               </div>
             </div>
 
-            
+
 
             <div className="event-block">
               <div className="row">
@@ -193,46 +193,46 @@ const Udhyog = () => {
             </div>
 
             <div className="event-block last">
-            <div className="row">
-              <div className="col-lg-2 sec-1">
-                <table>
-                  <tbody>
-                    <tr>
-                      <td>
-                        <div className="month">Apr</div>
-                        <div className="month-date-devider" />
-                        <div className="date">5</div>
-                      </td>
-                      <td className="title">Symposium</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-              <div className="col-lg-5 sec-2">
-                <img src="/assets/images/events/Symposium.png" />
-              </div>
-              <div className="col-lg-5 sec-3">
-                <div className="title"> Symposium</div>
-
-                <div className="sort-story">
-                Want to have a good time while learning something new?? Osmoze'22 has you covered with its event "SYMPOSIUM" - A perfect opportunity to enhance your soft skills!!
-
+              <div className="row">
+                <div className="col-lg-2 sec-1">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <div className="month">Apr</div>
+                          <div className="month-date-devider" />
+                          <div className="date">5</div>
+                        </td>
+                        <td className="title">Symposium</td>
+                      </tr>
+                    </tbody>
+                  </table>
                 </div>
-                <div className="group-of-btn">
-                  <a
-                    href="https://www.google.com"
-                    target="blank"
-                    className="btn book-ticket"
-                    onClick={() => {
-                      window.location = "/events/Symposium";
-                    }}
-                  >
-                    Read More...
-                  </a>
+                <div className="col-lg-5 sec-2">
+                  <img src="/assets/images/events/Symposium.png" />
+                </div>
+                <div className="col-lg-5 sec-3">
+                  <div className="title"> Symposium</div>
+
+                  <div className="sort-story">
+                    Want to have a good time while learning something new?? Osmoze'22 has you covered with its event "SYMPOSIUM" - A perfect opportunity to enhance your soft skills!!
+
+                  </div>
+                  <div className="group-of-btn">
+                    <a
+                      href="https://www.google.com"
+                      target="blank"
+                      className="btn book-ticket"
+                      onClick={() => {
+                        window.location = "/events/Symposium";
+                      }}
+                    >
+                      Read More...
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
 
             <div className="upcoming-sec">
               <div className="heading">Guest Lecture</div>
@@ -329,16 +329,27 @@ const Udhyog = () => {
                       form. And in the case of a tie, the answer solved in the
                       least stimulated time will be given preference.<br></br>
                       <br></br>
-                      <div className="title">Result</div>
+                      <div className="title">Results</div>
                       <div className="sort-story">
                         <b>
                           {" "}
-                          Results are out now!.<br></br>{" "}
+                          Results are out now of Osmocross I !<br></br>{" "}
                         </b>
-                        1.Aditya Kumar Singh (20045008) <br></br>
-                        2.Yashwardhan (21045147) <br></br>
-                        3.Jeet Gupta (21045064) <br></br>
+                        🥇 Aditya Kumar Singh (20045008) <br></br>
+                        🥈 Yashwardhan (21045147) <br></br>
+                        🥉 Jeet Gupta (21045064) <br></br>
                         <br></br>
+                      </div>
+                      
+                      <div className="sort-story">
+                        <b>
+                          {" "}
+                          Results are out now of Osmocross II !<br></br>{" "}
+                        </b>
+                        🥇Aditya Kumar Singh-Part 2 <br></br>
+                        🥈Naman Lakhotia-Part 1 <br></br>
+                        🥉Satyam-Part 1 <br></br>
+                        Kudos to the winners! One more to go, lift your spirits and gather your wits.<br></br>
                       </div>
                     </div>
                     {/* ************************************************************************* */}

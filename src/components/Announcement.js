@@ -43,11 +43,90 @@ function Announcement() {
         <ul>
         <li>
             <div style={{ overflow: "hidden" }}>
+              <time>April 8 2022</time> <h3>Result - Chem-E-Meme</h3>
+             🥇Abhishek Kumar - part 1<br></br>
+             🥈Utkarsh Sharma - part 1<br></br>
+             🥉Himanshu Karmankar - part 2<br></br>
+            Kudos to the winners!<br></br>
+            </div>
+          </li>
+          <li>
+        <div style={{ overflow: "hidden" }}>
+              <time>April 8 2022</time> <h3>Result - Symposium</h3>
+              consisted of two rounds, first of which was group discussion followed by turncoat.
+              <br></br><br></br>
+              Winners from 2nd year- <br></br>
+             🥇Shivam Gupta<br></br>
+             🥈Aditya Kumar Singh<br></br>
+             🥉Gunjan Pandey<br></br><br></br>
+             Winners from 1st year- <br></br>
+             🥇Naman Lakhotiya<br></br>
+             🥈Saransh Mishra<br></br>
+             🥉Abhishek Kumar<br></br>
+            Kudos to the winners!<br></br>
+            </div>
+          </li>
+
+        <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 8 2022</time> <h3>Result - Chemcoding</h3>
+              A coding competition <br></br><br></br>
+              Winners from 3rd year- <br></br>
+             🥇 Rohit Ranjan<br></br>
+             🥈Arjun Agrawal<br></br><br></br>
+             Winners from 2nd year- <br></br>
+             🥇Aniruddh<br></br>
+             🥈Parth Gupta<br></br>
+             🥉Naman Lakhotiya<br></br>
+            Kudos to the winners!<br></br>
+            </div>
+          </li>
+
+
+        <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 8 2022</time> <h3>Result - Chemathon</h3>
+             🥇Aditya Kumar Singh<br></br>
+             🥈Parth Gupta<br></br>
+             🥉Naman Lakhotiya<br></br>
+            Kudos to the winners!<br></br>
+            </div>
+          </li>
+
+        <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 8 2022</time> <h3>Result - Adhyayan</h3>
+             🥇Team Strats <br></br>
+             🥈Team Achilles <br></br>
+             🥉Team Epic_Soch<br></br>
+             🏅Team Abhishroy <br></br>
+             Kudos to the winners!<br></br>
+            </div>
+          </li>
+
+
+        <li>
+            <div style={{ overflow: "hidden" }}>
+              <time>April 8 2022</time> <h3>Result - UDYOG</h3>
+              A case study on core chemical engineering <br></br><br></br>
+             🥇Team Catalyst<br></br>
+             🥈Team Achilles <br></br>
+             🥉Team Blemish<br></br>
+             Kudos to the winners!<br></br>
+            </div>
+          </li>
+
+        <li>
+            <div style={{ overflow: "hidden" }}>
               <time>April 07 2022</time> <h3>Result - Osmocross</h3>
-              Here is the results of the intruiging osmocross II <br></br><br></br>
-             🥇Aditya Kumar Singh-Part 2 <br></br>
-             🥈Naman Lakhotia-Part 1 <br></br>
-             🥉Satyam-Part 1 <br></br>
+              result of Osmocross I <br></br>
+             🥇Aditya Kumar Singh - Part 2 <br></br>
+             🥈Yashwardhan - Part 1 <br></br>
+             🥉Jeet Gupta - Part 1 <br></br><br></br>
+              Here is the results of the intruiging osmocross II <br></br>
+             🥇Aditya Kumar Singh - Part 2 <br></br>
+             🥈Naman Lakhotia - Part 1 <br></br>
+             🥉Satyam - Part 1 <br></br>
              Kudos to the winners! One more to go, lift your spirits and gather your wits.<br></br>
             </div>
           </li>

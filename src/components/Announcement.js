@@ -126,7 +126,7 @@ function Announcement() {
              🥇Aditya Kumar Singh - Part 2 <br></br>
              🥈Naman Lakhotia - Part 1 <br></br>
              🥉Satyam - Part 1 <br></br>
-             Kudos to the winners! One more to go, lift your spirits and gather your wits.<br></br>
+             Kudos to the winners!<br></br>
             </div>
           </li>
 

@@ -60,7 +60,7 @@ function Announcement() {
              🥈Aditya Kumar Singh<br></br>
              🥉Gunjan Pandey<br></br><br></br>
              Winners from 1st year- <br></br>
-             🥇Naman Lakhotiya<br></br>
+             🥇Naman Lakhotia<br></br>
              🥈Saransh Mishra<br></br>
              🥉Abhishek Kumar<br></br>
             Kudos to the winners!<br></br>
@@ -87,7 +87,7 @@ function Announcement() {
               <time>April 8 2022</time> <h3>Result - Chemathon</h3>
              🥇Aditya Kumar Singh<br></br>
              🥈Parth Gupta<br></br>
-             🥉Naman Lakhotiya<br></br>
+             🥉Naman Lakhotia<br></br>
             Kudos to the winners!<br></br>
             </div>
           </li>
@@ -118,11 +118,11 @@ function Announcement() {
         <li>
             <div style={{ overflow: "hidden" }}>
               <time>April 07 2022</time> <h3>Result - Osmocross</h3>
-              result of Osmocross I <br></br>
+              Result of Osmocross I <br></br>
              🥇Aditya Kumar Singh - Part 2 <br></br>
              🥈Yashwardhan - Part 1 <br></br>
              🥉Jeet Gupta - Part 1 <br></br><br></br>
-              Here is the results of the intruiging osmocross II <br></br>
+              Result of the intruiging osmocross II <br></br>
              🥇Aditya Kumar Singh - Part 2 <br></br>
              🥈Naman Lakhotia - Part 1 <br></br>
              🥉Satyam - Part 1 <br></br>

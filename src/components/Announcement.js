@@ -75,9 +75,8 @@ function Announcement() {
              🥇 Rohit Ranjan<br></br>
              🥈Arjun Agrawal<br></br><br></br>
              Winners from 2nd year- <br></br>
-             🥇Aniruddh<br></br>
-             🥈Parth Gupta<br></br>
-             🥉Naman Lakhotiya<br></br>
+             🥇Aniruddha<br></br>
+             🥈Aditya<br></br>
             Kudos to the winners!<br></br>
             </div>
           </li>
